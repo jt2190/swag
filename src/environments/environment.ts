@@ -4,13 +4,15 @@
 
 export const environment = {
   production: false,
+  // The Firebase config object contains unique, but non-secret identifiers for your Firebase project. 
+  // Visit Understand Firebase Projects to learn more about this config object.
   firebase: {
-    apiKey: "AIzaSyA5KhMzwsND0-CrMTOHBZ8xsMwxUFGiDyg",
-    authDomain: "swag-3b5c3.firebaseapp.com",
-    databaseURL: "https://swag-3b5c3.firebaseio.com",
-    projectId: "swag-3b5c3",
-    storageBucket: "swag-3b5c3.appspot.com",
-    messagingSenderId: "863394537600"
+    apiKey: "api-key",
+    authDomain: "project-id.firebaseapp.com",
+    databaseURL: "https://project-id.firebaseio.com",
+    projectId: "project-id",
+    storageBucket: "project-id.appspot.com",
+    messagingSenderId: "sender-id"
   }
 };
 
