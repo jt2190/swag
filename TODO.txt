@@ -1,0 +1,7 @@
+[ ] Newly created piece of swag persisted to store (Firebase Realtime Database: https://firebase.google.com/docs/database/web/start)
+[ ] User can view all swag items
+[ ] User can claim available swag item
+[ ] Swag cliam in persisted to database
+[ ] Users are notified about swag claim
+[ ] Users can register (Firebase UI Web) https://github.com/firebase/firebaseui-web
+

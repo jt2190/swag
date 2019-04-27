@@ -1,0 +1,4 @@
+<h2>Snapshot changes</h2>
+<ul>
+  <li *ngFor="let swagItem of swagItems | async"><a routerLink="/swag/{{swagItem.id}}">{{swagItem.name}}</a></li>
+</ul>
